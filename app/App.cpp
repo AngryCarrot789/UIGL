@@ -3,3 +3,4 @@
 //
 
 #include "App.h"
+App* App::gApp = nullptr;
